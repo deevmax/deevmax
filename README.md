@@ -1,6 +1,6 @@
 <h1 align = center >Olá, meu nome é Max 🤓</h1> <br>
 <h3 align = center >Sou um entusiasta e estudante de programação/desenvolvimento web</h3>
-<h3 align = center >Atualmente meu foco de estudo é front-end</h3>
+<h3 align = center >Atualmente meu foco de estudo é HTML, CSS & JAVASCRIPT (front-end)</h3>
 <h3 align = center >Em meu git você vai encontrar alguns de meus projetos, feitos como base de estudo da área.</h3> <br>
 <div align="center">
   <img align="center" src="https://cdn.discordapp.com/attachments/958730643834044417/1046087957641166868/ezgif-1-ab386801c2.gif">
